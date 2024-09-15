@@ -13,11 +13,11 @@
  
 ### <summary><strong>Let's connect!</strong></summary>
 <a href="www.linkedin.com/in/izzazsa-627524312">
-  <img align="left" alt="Goo's Twitter" width="20px" src="https://simpleicons.now.sh/linkedln/495f7e" />
+  <img align="left" alt="Goo's Linkedln" width="20px" src="https://simpleicons.now.sh/linkedin/495f7e" />
 </a>
 <a href="https://www.instagram.com/izza.zsna?igsh=MWZ0aDE4amsyMmcxaA==">
   <img align="left" alt="Goo's Instagram" width="20px" src="https://simpleicons.now.sh/instagram/495f7e" />
 </a>
 <a href="https://discordapp.com/users/1151502814615449742">
-  <img align="left" alt="Goo's Blog" width="20px" src="https://simpleicons.now.sh/discord/495f7e" />
+  <img align="left" alt="Goo's Discord" width="20px" src="https://simpleicons.now.sh/discord/495f7e" />
 </a>
