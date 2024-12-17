@@ -43,5 +43,5 @@
 
 
 
-*Thank you for stopping by! Feel free to explore my repositories!*  
-*With love and code, Izza* 💖
+<center>*Thank you for stopping by! Feel free to explore my repositories!*  
+*With love and code, Izza* 💖</center>
