@@ -12,11 +12,16 @@
 - ✨ Fun fact: I sprinkle a little magic into every project I create!  
 
 ---
-
-### 🎨 Aesthetic Stats 🌸
+### 🌸 GitHub Stats & Visitors 🌸  
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=izzatunnissa&show_icons=true&theme=tokyonight&hide_title=true&hide_rank=false&count_private=true" alt="GitHub Stats" width="400">  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=izzatunnissa&layout=compact&theme=tokyonight" alt="Top Languages" width="400">  
+  <!-- Visitor Badge -->
+  ![Visitor Count](https://komarev.com/ghpvc/?username=izzatunnissa&label=Profile%20Views&color=brightgreen&style=flat-square)
+  
+  <!-- Followers Badge -->
+  ![GitHub followers](https://img.shields.io/github/followers/izzatunnissa?label=Follow&style=social)
+
+  <!-- Contributions Badge -->
+  ![GitHub Contributions](https://img.shields.io/github/commit-activity/m/izzatunnissa?color=green&label=Commits&style=flat-square)
 </p>
 
 ---
