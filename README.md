@@ -1,28 +1,15 @@
-# ✨🌸 Hi, I’m Izza! 🌸✨  
+#  Hi, I’m Izza! 
 
 
 ---
 
-### 🌷 About Me 🌷  
+### 🌷 About Me 
 > *"Tech enthusiast by day, dreamer by night."*  
 
 - 👩‍💻 **Developer & Dreamer** with a passion for **coding and creativity**.  
 - 💡 Always exploring new **technologies** and solving **real-world problems**.  
 - 🌱 Currently diving into **PHP, Web Development**, and **Open Source**!  
 - ✨ Fun fact: I sprinkle a little magic into every project I create!  
-
----
-### 🌸 GitHub Stats & Visitors 🌸  
-<p align="center">
-  <!-- Visitor Badge -->
-  ![Visitor Count](https://komarev.com/ghpvc/?username=izzatunnissa&label=Profile%20Views&color=brightgreen&style=flat-square)
-  
-  <!-- Followers Badge -->
-  ![GitHub followers](https://img.shields.io/github/followers/izzatunnissa?label=Follow&style=social)
-
-  <!-- Contributions Badge -->
-  ![GitHub Contributions](https://img.shields.io/github/commit-activity/m/izzatunnissa?color=green&label=Commits&style=flat-square)
-</p>
 
 ---
 
@@ -37,7 +24,7 @@
 
 ---
 
-### 🌼 Let’s Connect! 🌼  
+### 🌼 Let’s Connect! 
 <p align="center">
 <a href="mailto:izzatunnissa@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 <a href="https://www.linkedin.com/in/izzatunnissa/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
@@ -54,12 +41,11 @@
 
 ---
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=timcreative&theme=vue-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="My github stats" />
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=timcreative&show_icons=true&include_all_commits=true&theme=cobalt&hide_border=true" alt="My github stats" /> 
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=timcreative&layout=compact&theme=cobalt&hide_border=true" />
 
 
-⭐️ *Thank you for stopping by! Feel free to explore my repositories!*  
-*With love and code, Izzatun Nissa* 💖✨
+*Thank you for stopping by! Feel free to explore my repositories!*  
+*With love and code, Izza* 💖
