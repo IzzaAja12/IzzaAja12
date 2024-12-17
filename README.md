@@ -1,5 +1,5 @@
 # ✨🌸 Hi, I’m Izza! 🌸✨  
-![Banner](https://i.pinimg.com/736x/9b/f7/ee/9bf7ee299d3c6fc3a9890258feb2d210.jpg?text=✨+Welcome+to+My+GitHub+World!+✨)
+![Banner](?text=✨+Welcome+to+My+GitHub+World!+✨)
 
 ---
 
