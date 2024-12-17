@@ -27,8 +27,8 @@
 ### 🌼 Let’s Connect! 
 <p align="center">
 <a href="mailto:izzatn12nissa@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-<a href="https://www.linkedin.com/in/izzatunnissa/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://twitter.com/izzatunnissa"><img src="https://img.shields.io/badge/Instagram-1DA1F2?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+<a href="https://www.linkedin.com/in/izzazsa-627524312/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://twitter.com/izzatunniss"><img src="https://img.shields.io/badge/Instagram-1DA1F2?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
 <a href="https://wa.me/6283854398656"><img src="https://img.shields.io/badge/Whatsapp-000000?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Whatsapp"></a>
 </p>
 
