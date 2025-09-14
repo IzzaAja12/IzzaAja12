@@ -26,19 +26,12 @@
 
 ---
 
-## 🐾 Fun Facts About Me  
-- ₊˚⊹♡ Pecinta langit sore + petikan gitar 
+## 🐾 Fun Facts Tentang Izza
+- ₊˚⊹♡ Pecinta langit sore + melodi senar klasik
 - ꒰ঌ🎶໒꒱ Musik random = mood booster utama  
 - 🌷 Suka banget bikin moodboard Pinterest tengah malam  
-- ˚₊· ͟͟͞͞➳❥ Motto: *“Belajar pelan-pelan, asal konsisten & happy.”*  
 
 ---
 
-## ˚₊· ͟͟͞͞➳❥ Little Cat Corner 🐱  
-<p align="center">
-  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="150" alt="cute cat typing"/>  
-  <img src="https://media.giphy.com/media/MDJ9IbxxvDUQM/giphy.gif" width="120" alt="cute cat"/>  
-</p>  
 
----
 
