@@ -6,7 +6,6 @@
 
 ## 🧸 Tentang Aku  
 - 🎓 Siswi SMK jurusan **PPLG (Pengembangan Perangkat Lunak & Gim)**  
-- 🐰 Kadang ngoding, kadang anak cozy yang suka doodling   
 
 ---
 
@@ -25,13 +24,7 @@
 
 ---
 
-## 🐾 Fun Facts Tentang Izza
-- ₊˚⊹♡ Pecinta langit sore + melodi senar klasik
-- ꒰ঌ🎶໒꒱ Musik random = mood booster utama  
-- 🌷 Suka banget bikin moodboard Pinterest tengah malam
-- ⊹♡ Ga ngopi ga semangat lagi
 
----
 
 
 
