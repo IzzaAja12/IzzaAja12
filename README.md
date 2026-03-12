@@ -17,9 +17,6 @@
   <a href="https://youtube.com/@zaethers" target="_blank"> 
     <img src="https://img.shields.io/badge/YouTube-ffe2e2?style=for-the-badge&logo=youtube&logoColor=%23FF0000"/>
   </a>
-  <a href="https://wattpad.com/leynokz" target="_blank"> 
-    <img src="https://img.shields.io/badge/Wattpad-ffe4ec?style=for-the-badge&logo=wattpad&logoColor=%23BD081C"/>
-  </a>
   <a href="https://tiktok.com/@izzasza" target="_blank"> 
     <img src="https://img.shields.io/badge/Tiktok-ffe4ec?style=for-the-badge&logo=tiktok&logoColor=%23BD081C"/>
   </a>
